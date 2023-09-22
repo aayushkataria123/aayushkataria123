@@ -26,3 +26,16 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushkataria123&show_icons=true&locale=en&layout=compact" alt="aayushkataria123" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushkataria123&show_icons=true&locale=en" alt="aayushkataria123" /></p>
+
+
+<p align="center">
+  <img src="https://i.imgur.com/GZHodUG.png" width="100px"/>
+  <h3 align="center">Github Readme Streak Stats</h3>
+</p>
+
+<p align="center">
+  Display your total contributions, current streak,
+  <br/>
+  and longest streak on your GitHub profile README
+</p>
+
