@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aayush Kataria</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Engineer from India</h3>
 
 
-- 🔭 I’m currently looking for opportunities in **in SQL,Python field.**
+- 🔭 I’m currently looking for opportunities in **in Data Engineer field.**
 
 - 👯 I’m looking to collaborate on **projects related to machine learning or python..**
 
